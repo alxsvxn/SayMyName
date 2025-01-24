@@ -17,7 +17,7 @@ Module SayMyName
         Console.ReadKey() 'Readkey is an operation that will execute the next line of code after a key is pressed
         Console.WriteLine()
 
-        Console.WriteLine(Name & ":You know. You all know exactly who I am. Say my name.")
+        Console.WriteLine(Name & ": You know. You all know exactly who I am. Say my name.")
 
         Console.WriteLine()
 
